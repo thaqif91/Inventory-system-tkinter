@@ -1,0 +1,18 @@
+{
+    "Lampu 10W": {
+        "amount": "1",
+        "units": "units"
+    },
+    "Lampu 20W": {
+        "amount": "44",
+        "units": "units"
+    },
+    "Lampu 50W": {
+        "amount": "78",
+        "units": "units"
+    },
+    "Lampu 100W": {
+        "amount": "1",
+        "units": "units"
+    }
+}
